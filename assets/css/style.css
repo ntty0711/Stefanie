@@ -1,6 +1,6 @@
 :root {
     /* CRIAÇÃO DE VARIAVEIS CSS */
-    --bg: #ed4949;
+    --bg: #c03939;
     --card: #ffffff;
     --accent: #0b5ed7;
     --muted: #6b7280;
@@ -13,7 +13,7 @@ body {
     background: var(--bg);
     color: #0f172a;
     margin: 0;
-    padding: 24px
+    padding: 26px
 }
  
 .container {
@@ -29,8 +29,8 @@ header {
 }
  
 .logo {
-    width: 80px;
-    height: 80px;
+    width: 81px;
+    height: 81px;
     border-radius: 12px;
     background: linear-gradient(135deg, var(--accent), #0ea5a6);
     display: flex;
